@@ -7,7 +7,7 @@ spring:
           property-sources[0]:
             credential:
               client-secret: <Client Secret Value>
-              client-id: <Client/Application ID>
+              client-id: <Client ID>
             profile:
               tenant-id: <Tenant ID>
             endpoint: <Vault URI>
